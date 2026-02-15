@@ -14,6 +14,15 @@
       "contact_details": "For security inquiries, please contact info@wwh-soft.com.",
       "name": "Weichwerke Heidrich Software",
       "namespace": "https://wwh-soft.com"
+    },
+    "tracking": {
+      "generator": {
+        "date": "2026-02-15T05:28:17.850Z",
+        "engine": {
+          "name": "Secvisogram",
+          "version": "2.5.43-1-ga4584ab3"
+        }
+      }
     }
   },
   "product_tree": {
@@ -66,6 +75,14 @@
             "product": {
               "name": "BOMnipotent 1.3.1",
               "product_id": "bomnipotent_1.3.1"
+            }
+          },
+          {
+            "category": "product_version",
+            "name": "1.4.0",
+            "product": {
+              "name": "BOMnipotent 1.4.0",
+              "product_id": "bomnipotent_1.4.0"
             }
           }
         ],
